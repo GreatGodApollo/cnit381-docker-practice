@@ -2,8 +2,8 @@
 This file will track my Docker learning progress.
 
 ## Completed Exercises
-- [ ] Basic Docker commands
-- [ ] Running pre-built containers
-- [ ] Creating custom Dockerfile
-- [ ] Building custom images
-- [ ] Publishing to Docker Hub
+- [x] Basic Docker commands
+- [x] Running pre-built containers
+- [x] Creating custom Dockerfile
+- [x] Building custom images
+- [x] Publishing to Docker Hub
